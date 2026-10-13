@@ -1,10 +1,10 @@
 # Jayinaksha Vyas
 
-**Robotics & autonomy engineer · IIT Patna** — B.Tech + M.Tech, Electronics & Communication (2023–2028).
-Captain of Team Phoenix, IIT Patna's Robocon team, through the 2025–26 season.
+**Physical AI · IIT Patna** — B.Tech + M.Tech, Electronics & Communication (2023–2028).
 
-I build robots that keep working when something breaks — a motor, the network, the battery.
-Perception and control on the robot, planning in the middle, language models on top.
+I work on physical AI: robot policies, vision-language-action models, and world models that let a robot
+predict before it acts. I came to it by building the robots — a drone that lands on three rotors, a robot
+that drives to a spoken goal, competition basketball robots — so I care about what survives the real world.
 
 <a href="https://jayinaksha.github.io/#reel"><img src="assets/thumbnail.png" alt="Jayinaksha Vyas — watch the 38-second reel of real test and match footage" width="800"></a>
 
@@ -36,9 +36,9 @@ Also: [transformable aerial–ground robot](https://github.com/Jayinaksha/transf
 
 ## Tools I reach for
 
-ROS 2 · Nav2 · PX4 · Gazebo · MuJoCo · Rust · C++ · Python · ESP32 · Jetson · Raspberry Pi · RealSense · PyTorch · Verilog
+PyTorch · JAX · VLMs / LLMs · MuJoCo · Gazebo · ROS 2 · Nav2 · PX4 · Rust · C++ · Python · Jetson · ESP32 · RealSense
 
 ## Open to
 
-Internships and research in robotics and AI systems. Email is the fastest way to reach me:
+Research and internships in physical AI — robot policies, VLAs and world models — and robotics more broadly. Email is the fastest way to reach me:
 **jayinaksha_2302cm08@iitp.ac.in**
