@@ -6,7 +6,7 @@ Captain of Team Phoenix, IIT Patna's Robocon team, through the 2025–26 season.
 I build robots that keep working when something breaks — a motor, the network, the battery.
 Perception and control on the robot, planning in the middle, language models on top.
 
-<a href="https://jayinaksha.github.io/"><img src="assets/reel.gif" alt="Showreel: Team Phoenix robots on the court, the shooter in simulation, R2-D2 Redux's printed parts, a drone flight test, PRISM and Iron." width="720"></a>
+<a href="https://jayinaksha.github.io/#reel"><img src="assets/thumbnail.png" alt="Jayinaksha Vyas — watch the 38-second reel of real test and match footage" width="800"></a>
 
 **[jayinaksha.github.io](https://jayinaksha.github.io/)** — every project, with real footage ·
 **[Portfolio](https://jayinaksha.github.io/portfolio/)** ·
@@ -29,6 +29,10 @@ Perception and control on the robot, planning in the middle, language models on 
 Also: [transformable aerial–ground robot](https://github.com/Jayinaksha/transformable_bot) for the ISRO Robotics Challenge ·
 [SynthWorld](https://github.com/Jayinaksha/synthworld) synthetic data ·
 [CNN accelerator on FPGA](https://github.com/Jayinaksha/cnn_a_parallel_approach).
+
+## On camera
+
+<a href="https://jayinaksha.github.io/#reel"><img src="assets/reel.gif" alt="Showreel: Team Phoenix robots on the court, the shooter in simulation, R2-D2 Redux's printed parts, a drone flight test, PRISM and Iron." width="640"></a>
 
 ## Tools I reach for
 
